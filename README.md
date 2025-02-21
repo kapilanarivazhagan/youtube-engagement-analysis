@@ -1,9 +1,6 @@
-# youtube-engagement-analysis
 # 📊 YouTube Audience Engagement Analysis
-🚀 Analyze YouTube video comments using NLP, Sentiment Analysis, and Topic Modeling
+ Analyze YouTube video comments using NLP, Sentiment Analysis, and Topic Modeling
 
-🔗 Live Demo
-👉 Streamlit App (Update after deployment)
 
 📌 Features
 ✅ Extract YouTube comments using Selenium
